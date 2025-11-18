@@ -40,7 +40,7 @@ Lakukan langkah ini hanya sekali saat pertama kali bergabung di proyek.
 
 ## 1. Alur Kerja Harian (The Workflow)
 
-Ikuti siklus ini setiap kali kamu mengerjakan tugas baru.
+Ikuti Flow ini untuk setiap kali kamu mengerjakan tugas baru.
 
 **A. Sebelum Coding (Sync & Branching)**
 
@@ -71,16 +71,14 @@ Bash
 
 **C. Setelah Selesai (Push & PR)**
 
-    Push branch kamu ke GitHub:
-    Bash
-
+    - Push branch kamu ke GitHub:
     git push origin <nama-branch-kamu>
 
-    Buka GitHub dan buat Pull Request (PR) ke branch develop.
+    - Buka GitHub dan buat Pull Request (PR) ke branch develop.
 
-    Code Review: Minta teman tim lain untuk mengecek kodemu.
+    - Code Review: Minta teman tim lain untuk mengecek kodemu.
 
-    Merge: Setelah diapprove, merge PR tersebut.
+    - Merge: Setelah diapprove, merge PR tersebut.
 
 ## 2. "Kamus" Tim (Aturan Penamaan)
 
